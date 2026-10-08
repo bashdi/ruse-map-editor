@@ -2,6 +2,8 @@
 
 Editor for custom multiplayer maps in R.U.S.E. – written in Java (Swing, no external libraries).
 
+![RUSE Map Editor showing a custom map on the Cotentin terrain](editor.png)
+
 ## Starting
 
 ```
